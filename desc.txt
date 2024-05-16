@@ -1,0 +1,40 @@
+bg : #F8FAE5
+logo-navbar : #76453B
+text-navbar icon : #202020
+
+about : 
+We are Canvas Community, we build this website for all creatives all over the world to put their best painting in this website, either they can sell it or show off their works.
+
+We help them reach other painters out there to  inspire each other.
+
+We make them easy to sell their painting and easy to get their money.
+
+Enjoy your journey.
+
+artists :
+1.Frank-I am Frank, 24 years old artist from Canada who have passion in art.
+2.Sisi-I am Sisi, 25 years old artist from German. I have been painting since in middle school and I will keep this passion for the rest of my life
+3.John-I am John, 45 years old artist from Italy. All my paintings are inspired by Leonardo Da Vinci
+4.Mahdi-I am Mahdi, 23 years old artist from Egypt. everything I paint is based on the environment of my hometown
+
+trending :
+1.Flower Still Life with a Timepiece
+Willem van Aelst
+Van Aelst’s flower still-lifes are different to those of his predecessors. Rather than painting symmetrical bouquets, he arranged them along a diagonal line. Moreover, he did not light them evenly, opting instead for strong contrasts of light and dark. This lends tension and dynamism to his bouquets.
+2.Snowstorm, Mont Cenis
+J M W Turner
+This dramatic snowstorm watercolour was inspired by Turner's own journey across the Mont Cenis pass in 1820. The sketches that led to this intense watercolour are in Tate's permanent collection.
+3.Lancaster Sands
+J M W Turner
+This watercolour is one of the first of Turner's autobiographical travelling pictures, showing the Lancaster coach struggling across the sands in a rainstorm being overtaken by the incoming tide.
+4.Congreve Street, Birmingham, showing Christ Church and the Town Hall 
+Laurence J Hart
+This image depicts Congreve Street in Birmnigham showing Christ Church ad the Town Hall. This watercolour would make a great addition to any home.
+
+home :
+1.Driving Home The Flock
+Robert Hills
+2.See that tree in the light? 
+That’s where Tarzan grew up, 
+so I think.
+Dino Walsh
